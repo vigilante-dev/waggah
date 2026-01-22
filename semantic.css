@@ -1,0 +1,75 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0
+}
+header{
+    background-color:grey;
+    padding:10px ;
+    text-align: center   
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a{
+    color: bisque;
+}
+nav ul li a:hover{
+    color: brown;
+    background: rgb(212, 208, 215);
+
+}
+main{
+    text-align: center;
+}
+section{
+    text-align: center;
+    border: 1px solid coral;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px palegreen;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    background-color: bisque;
+}
+h2{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#safari{
+    border: 10px;
+    padding: 8px;
+    box-shadow: 2px 2px 6px pink;
+}
+footer{
+    border: 10px;
+    background-color: rosybrown;
+    padding: 1px;
+    text-align: center;
+
+}
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    alignment-baseline: central;
+    color: brown;
+    font-style: normal;
+}
+#myform{
+    width: 500px;
+    border: 2px magenta;
+    margin: 10cap;
+    padding: 300px auto;  
+    margin-left: 10cm; 
+    border-color: blueviolet;
+
+}
+#bar{
+    margin-top:0.25cm;
+}
